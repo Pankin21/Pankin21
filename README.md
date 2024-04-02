@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome to my Profile
+My name is Daniil Pankin. I'm 16 years old.
 
-<!--
-**Pankin21/Pankin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://www.python.org"><img src="https://www.svgrepo.com/show/452091/python.svg" width="30" /></a>
+  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /></a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+<details>
+  <summary>Codewars</summary>
+  <a href="https://www.codewars.com/users/pankin"><img src="https://www.codewars.com/users/pankin/badges/large" alt="Codewars Stats"/></a><br>
+</details>
+
+<details>
+  <summary>GitHub</summary>
+  <a href="https://github.com/pankin21"><img src="https://github-readme-stats.vercel.app/api?username=pankin21&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats"/></a>
+</details>
